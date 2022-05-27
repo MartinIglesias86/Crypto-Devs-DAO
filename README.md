@@ -1,4 +1,4 @@
-# App that interact with a Smart Contract be part of the Crypto Devs DAO.
+# App that interact with a Smart Contract to be part of the Crypto Devs DAO.
 
 In this project I'm going to use [React](https://reactjs.org/), [Solidity](https://soliditylang.org/), [Hardhat](https://hardhat.org/), and [Node.js](https://nodejs.org/) to create an app to be part of the Crypto Devs DAO, with the deployment of the Smart Contract on
 the Rinkeby test net.
